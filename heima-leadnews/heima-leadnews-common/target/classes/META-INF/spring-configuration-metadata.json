@@ -1,0 +1,239 @@
+{
+  "groups": [
+    {
+      "name": "aliyun",
+      "type": "com.heima.common.aliyun.AliyunTextScanRequest",
+      "sourceType": "com.heima.common.aliyun.AliyunTextScanRequest"
+    },
+    {
+      "name": "aliyun",
+      "type": "com.heima.common.aliyun.AliyunImageScanRequest",
+      "sourceType": "com.heima.common.aliyun.AliyunImageScanRequest"
+    },
+    {
+      "name": "fast.dfs",
+      "type": "com.heima.common.fastdfs.FastDfsConfig",
+      "sourceType": "com.heima.common.fastdfs.FastDfsConfig"
+    },
+    {
+      "name": "kafka",
+      "type": "com.heima.common.kafka.KafkaConsumerConfig",
+      "sourceType": "com.heima.common.kafka.KafkaConsumerConfig"
+    },
+    {
+      "name": "kafka",
+      "type": "com.heima.common.kafkastream.KafkaStreamConfig",
+      "sourceType": "com.heima.common.kafkastream.KafkaStreamConfig"
+    },
+    {
+      "name": "kafka",
+      "type": "com.heima.common.kafka.KafkaProducerConfig",
+      "sourceType": "com.heima.common.kafka.KafkaProducerConfig"
+    },
+    {
+      "name": "kafka.topic",
+      "type": "com.heima.common.kafka.KafkaTopicConfig",
+      "sourceType": "com.heima.common.kafka.KafkaTopicConfig"
+    },
+    {
+      "name": "mysql.core",
+      "type": "com.heima.common.mysql.core.MysqlCoreConfig",
+      "sourceType": "com.heima.common.mysql.core.MysqlCoreConfig"
+    },
+    {
+      "name": "mysql.core",
+      "type": "com.heima.common.mysql.core.TransactionConfig",
+      "sourceType": "com.heima.common.mysql.core.TransactionConfig"
+    },
+    {
+      "name": "spring.elasticsearch.jest",
+      "type": "com.heima.common.elasticsearch.ElasticsearchConfig",
+      "sourceType": "com.heima.common.elasticsearch.ElasticsearchConfig"
+    },
+    {
+      "name": "spring.quartz",
+      "type": "com.heima.common.quartz.QuartzConfig",
+      "sourceType": "com.heima.common.quartz.QuartzConfig"
+    },
+    {
+      "name": "spring.redis",
+      "type": "com.heima.common.redis.RedisConfiguration",
+      "sourceType": "com.heima.common.redis.RedisConfiguration"
+    },
+    {
+      "name": "zk",
+      "type": "com.heima.common.zookeeper.ZkConfig",
+      "sourceType": "com.heima.common.zookeeper.ZkConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "aliyun.access-key",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.aliyun.AliyunTextScanRequest"
+    },
+    {
+      "name": "aliyun.access-key",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.aliyun.AliyunImageScanRequest"
+    },
+    {
+      "name": "aliyun.secret",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.aliyun.AliyunTextScanRequest"
+    },
+    {
+      "name": "aliyun.secret",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.aliyun.AliyunImageScanRequest"
+    },
+    {
+      "name": "fast.dfs.connect-timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.heima.common.fastdfs.FastDfsConfig",
+      "defaultValue": 0
+    },
+    {
+      "name": "fast.dfs.so-timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.heima.common.fastdfs.FastDfsConfig",
+      "defaultValue": 0
+    },
+    {
+      "name": "fast.dfs.tracker-server",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.fastdfs.FastDfsConfig"
+    },
+    {
+      "name": "kafka.group",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.kafka.KafkaConsumerConfig"
+    },
+    {
+      "name": "kafka.group",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.kafkastream.KafkaStreamConfig"
+    },
+    {
+      "name": "kafka.hosts",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.kafka.KafkaConsumerConfig"
+    },
+    {
+      "name": "kafka.hosts",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.kafkastream.KafkaStreamConfig"
+    },
+    {
+      "name": "kafka.hosts",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.kafka.KafkaProducerConfig"
+    },
+    {
+      "name": "kafka.kafka-topic-config",
+      "type": "com.heima.common.kafka.KafkaTopicConfig",
+      "sourceType": "com.heima.common.kafkastream.KafkaStreamConfig"
+    },
+    {
+      "name": "kafka.producer-listener",
+      "type": "org.springframework.kafka.support.ProducerListener<java.lang.String,java.lang.String>",
+      "sourceType": "com.heima.common.kafka.KafkaProducerConfig"
+    },
+    {
+      "name": "kafka.topic.article-audit-success",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.kafka.KafkaTopicConfig"
+    },
+    {
+      "name": "kafka.topic.article-incr-handle",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.kafka.KafkaTopicConfig"
+    },
+    {
+      "name": "kafka.topic.article-update-bus",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.kafka.KafkaTopicConfig"
+    },
+    {
+      "name": "kafka.topic.hot-article",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.kafka.KafkaTopicConfig"
+    },
+    {
+      "name": "kafka.topic.submit-article-auth",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.kafka.KafkaTopicConfig"
+    },
+    {
+      "name": "mysql.core.aliases-package",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.mysql.core.MysqlCoreConfig"
+    },
+    {
+      "name": "mysql.core.jdbc-driver",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.mysql.core.MysqlCoreConfig"
+    },
+    {
+      "name": "mysql.core.jdbc-password",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.mysql.core.MysqlCoreConfig"
+    },
+    {
+      "name": "mysql.core.jdbc-url",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.mysql.core.MysqlCoreConfig"
+    },
+    {
+      "name": "mysql.core.jdbc-user-name",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.mysql.core.MysqlCoreConfig"
+    },
+    {
+      "name": "mysql.core.root-mapper",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.mysql.core.MysqlCoreConfig"
+    },
+    {
+      "name": "mysql.core.tx-scan-package",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.mysql.core.TransactionConfig"
+    },
+    {
+      "name": "spring.elasticsearch.jest.connection-timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.heima.common.elasticsearch.ElasticsearchConfig"
+    },
+    {
+      "name": "spring.elasticsearch.jest.read-timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.heima.common.elasticsearch.ElasticsearchConfig"
+    },
+    {
+      "name": "spring.elasticsearch.jest.url",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.elasticsearch.ElasticsearchConfig"
+    },
+    {
+      "name": "spring.quartz.group-prefix",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.quartz.QuartzConfig"
+    },
+    {
+      "name": "spring.quartz.scheduler-name",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.quartz.QuartzConfig"
+    },
+    {
+      "name": "zk.host",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.zookeeper.ZkConfig"
+    },
+    {
+      "name": "zk.sequence-path",
+      "type": "java.lang.String",
+      "sourceType": "com.heima.common.zookeeper.ZkConfig"
+    }
+  ],
+  "hints": []
+}

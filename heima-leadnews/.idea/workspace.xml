@@ -1,0 +1,1288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b189cbd5-debf-44a1-bfc5-508e4277006d" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/heima-leadnews-common/target/" />
+    <ignored path="$PROJECT_DIR$/heima-leadnews-utils/target/" />
+    <ignored path="$PROJECT_DIR$/heima-leadnews-apis/target/" />
+    <ignored path="$PROJECT_DIR$/heima-leadnews-tests/target/" />
+    <ignored path="$PROJECT_DIR$/heima-leadnews-model/target/" />
+    <ignored path="$PROJECT_DIR$/heima-leadnews-article/target/" />
+    <ignored path="$PROJECT_DIR$/heima-leadnews-behavior/target/" />
+    <ignored path="$PROJECT_DIR$/service-mycat/target/" />
+    <ignored path="$PROJECT_DIR$/heima-leadnews-user/target/" />
+    <ignored path="$PROJECT_DIR$/heima-leadnews-login/target/" />
+    <ignored path="$PROJECT_DIR$/heima-leadnews-media/target/" />
+    <ignored path="$PROJECT_DIR$/heima-leadnews-admin/target/" />
+    <ignored path="$PROJECT_DIR$/heima-leadnews-crawler/target/" />
+    <ignored path="$PROJECT_DIR$/heima-leadnews-images/target/" />
+    <ignored path="$PROJECT_DIR$/heima-leadnews-migration/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1300668324">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="xml" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="XML" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+          <entry key="properties" value="18" />
+          <entry key="xml" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+          <entry key="Properties" value="18" />
+          <entry key="XML" value="19" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-578914874">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="576" />
+          <entry key="properties" value="36" />
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="576" />
+          <entry key="Properties" value="36" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="977" />
+          <entry key="properties" value="83" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="977" />
+          <entry key="Properties" value="83" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="912287844">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="39" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.open.time.7" value="7" />
+          <entry key="project.open.time.8" value="8" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="41" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="111" />
+          <entry key="java" value="2053" />
+          <entry key="kt" value="4" />
+          <entry key="properties" value="255" />
+          <entry key="xml" value="270" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="111" />
+          <entry key="JAVA" value="2053" />
+          <entry key="Kotlin" value="4" />
+          <entry key="Properties" value="255" />
+          <entry key="XML" value="270" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="25" />
+          <entry key="java" value="111052" />
+          <entry key="kt" value="54" />
+          <entry key="properties" value="372" />
+          <entry key="xml" value="3243" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="111052" />
+          <entry key="Kotlin" value="54" />
+          <entry key="PLAIN_TEXT" value="25" />
+          <entry key="Properties" value="372" />
+          <entry key="SQL" value="102" />
+          <entry key="XML" value="3141" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getres</find>
+      <find>burst4040</find>
+      <find>ap_coll</find>
+      <find>curator.version</find>
+      <find>component</find>
+      <find>checkToken</find>
+      <find>saveUserSearch</find>
+      <find>fast</find>
+      <find>type</find>
+      <find>WM_NEWS_DRAFT_STATUS</find>
+      <find>wmFansStatisticsMapper</find>
+      <find>WM_NEWS_SUMMIT_STATUS</find>
+      <find>savewmnews</find>
+      <find>crawlerProxyList</find>
+      <find>getCrawlerProxyProvider</find>
+      <find>crawlerProxyProvider</find>
+      <find>HtmlLabel</find>
+      <find>spring-boot-starter-quartz</find>
+      <find>saveCollectionBehavior</find>
+      <find>count-article-num-miukoo-1</find>
+      <find>hadoop.home.dir</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/itheima-news-ppt" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/heima-leadnews-utils/src/main/java/com/heima/utils/common/MD5Utils.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-login/src/main/java/com/heima/login/controller/v2/LoginV2Controller.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/pom.xml" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/MigrationJarApplication.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/test/java/com/heima/migration/test/ArticleQuantityTest.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/heima-leadnews-common/src/main/java/com/heima/common/hbase/HBaseClent.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-common/src/main/resources/hbase.properties" />
+        <option value="$PROJECT_DIR$/heima-leadnews-common/src/main/java/com/heima/common/hbase/entity/HBaseStorage.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-common/src/main/java/com/heima/common/common/storage/StorageData.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-common/src/main/java/com/heima/common/mongo/MongoDBconfigure.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-common/src/main/resources/mongo.properties" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/config/InitConfig.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/test/java/com/heima/migration/test/MongoTest.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/ApArticleContenService.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/impl/ApArticleContenServiceImpl.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/entity/ArticleCallBack.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/entity/ArticleHBaseInvok.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-model/src/main/java/com/heima/model/mappers/app/ApArticleConfigMapper.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-model/src/main/resources/mappers/app/ApArticleConfigMapper.xml" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/ApArticleConfigService.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/impl/ApArticleConfigServiceImpl.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-model/src/main/java/com/heima/model/mappers/app/ApArticleContentMapper.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-model/src/main/resources/mappers/app/ApArticleContentMapper.xml" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/ApArticleContentService.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/impl/ApArticleContentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-model/src/main/java/com/heima/model/mappers/app/ApArticleMapper.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-model/src/main/resources/mappers/app/ApArticleMapper.xml" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/ApArticleService.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-model/src/main/java/com/heima/model/mappers/app/ApAuthorMapper.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-model/src/main/resources/mappers/app/ApAuthorMapper.xml" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/ApAuthorService.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/impl/ApAuthorServiceImpl.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/ArticleQuantityService.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/impl/ArticleQuantityServiceImpl.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/ApHotArticleService.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/entity/ArticleQuantity.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-article/src/main/java/com/heima/article/service/impl/ApHotArticleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-common/src/main/java/com/heima/common/mongo/entity/MongoStorageEntity.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/impl/ApHotArticleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/impl/ApArticleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/test/java/com/heima/migration/test/HbaseTest.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-common/maven_test.properties" />
+        <option value="$PROJECT_DIR$/heima-leadnews-common/src/main/java/com/heima/common/kafka/KafkaSender.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-admin/src/test/java/com/heima/admin/service/test/ReviewArticleTest.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/job/MigrationDbToHBaseQuartz.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-admin/src/main/java/com/heima/admin/service/impl/ReviewMediaArticleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/kafka/listener/MigrationAuditSucessArticleListener.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/kafka/listener/MigrationHotArticleListener.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-article/src/main/java/com/heima/article/job/AppHotArticleQuartz.java" />
+        <option value="$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/job/MigrationDeleteHotDataQuartz.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.3.9\repository_heima-leannews" />
+        <option name="mavenHome" value="D:/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="heima-leadnews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heima-leadnews" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="heima-leadnews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="heima-leadnews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.8" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="heima-leadnews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.8" type="70bed36:NamedLibraryElementNode" />
+              <item name="jackson-datatype-jsr310-2.9.8.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="Wmnew&#9;PSI&#9;JAVA://com.heima.model.mappers.wemedia.WmNewsMapper&#10;ArticleAuditSuccess&#9;PSI&#9;JAVA://com.heima.common.kafka.messages.ArticleAuditSuccessMessage&#10;MongoStorageEntity&#9;FILE&#9;file://D:/heima_leadnews/code/heima-leadnews/heima-leadnews-common/src/main/java/com/heima/common/mongo/entity/MongoStorageEntity.java&#10;Articlequ&#9;FILE&#9;file://D:/heima_leadnews/code/heima-leadnews/heima-leadnews-migration/src/main/java/com/heima/migration/entity/ArticleQuantity.java&#10;HbaseS&#9;FILE&#9;file://D:/heima_leadnews/code/heima-leadnews/heima-leadnews-common/src/main/java/com/heima/common/hbase/entity/HBaseStorage.java&#10;ArticleQuantity&#9;FILE&#9;file://D:/heima_leadnews/code/heima-leadnews/heima-leadnews-migration/src/main/java/com/heima/migration/entity/ArticleQuantity.java&#10;ApAuthM&#9;PSI&#9;JAVA://com.heima.model.mappers.app.ApAuthorMapper&#10;ApArticleMapper&#9;PSI&#9;JAVA://com.heima.model.mappers.app.ApArticleMapper&#10;ApArticleContent&#9;PSI&#9;JAVA://com.heima.model.mappers.app.ApArticleContentMapper&#10;ApArticleConfig&#9;FILE&#9;file://D:/heima_leadnews/code/heima-leadnews/heima-leadnews-model/src/main/java/com/heima/model/mappers/app/ApArticleConfigMapper.java&#10;ap&#9;FILE&#9;file://D:/heima_leadnews/code/heima-leadnews/heima-leadnews-model/src/main/java/com/heima/model/article/pojos/ApArticle.java&#10;apArticle&#9;PSI&#9;JAVA://com.heima.model.article.pojos.ApArticle&#10;StorageData&#9;PSI&#9;JAVA://com.heima.common.common.storage.StorageData&#10;ApUser&#9;PSI&#9;JAVA://com.heima.model.user.pojos.ApUser&#10;ApUserMapper&#9;PSI&#9;JAVA://com.heima.model.mappers.app.ApUserMapper&#10;ApAssociateWordsMapper&#9;FILE&#9;file://D:/heima_leadnews/code/heima-leadnews/heima-leadnews-model/src/main/java/com/heima/model/mappers/app/ApAssociateWordsMapper.java&#10;ApArticleSearchService&#9;FILE&#9;file://D:/heima_leadnews/code/heima-leadnews/heima-leadnews-article/src/main/java/com/heima/article/service/ApArticleSearchService.java&#10;APAr&#9;FILE&#9;file://D:/heima_leadnews/code/heima-leadnews/heima-leadnews-model/src/main/java/com/heima/model/mappers/app/ApArticleMapper.java&#10;AppArticleServiceImpl&#9;FILE&#9;file://D:/heima_leadnews/code/heima-leadnews/heima-leadnews-article/src/main/java/com/heima/article/service/impl/AppArticleServiceImpl.java&#10;Kafkato&#9;FILE&#9;file://D:/heima_leadnews/code/heima-leadnews/heima-leadnews-common/src/main/java/com/heima/common/kafka/KafkaTopicConfig.java&#10;KafkaSen&#9;PSI&#9;JAVA://com.heima.common.kafka.KafkaSender&#10;Kafkat&#9;FILE&#9;file://D:/heima_leadnews/code/heima-leadnews/heima-leadnews-common/src/main/java/com/heima/common/kafka/KafkaTopicConfig.java&#10;UserSearchDto&#9;PSI&#9;JAVA://com.heima.model.article.dtos.UserSearchDto&#10;Apar&#9;FILE&#9;file://D:/heima_leadnews/code/heima-leadnews/heima-leadnews-model/src/main/java/com/heima/model/mappers/app/ApArticleMapper.java&#10;ArticleVisitStreamDto&#9;FILE&#9;file://D:/heima_leadnews/code/heima-leadnews/heima-leadnews-model/src/main/java/com/heima/model/mess/app/ArticleVisitStreamDto.java&#10;KafkaTopicConfig&#9;FILE&#9;file://D:/heima_leadnews/code/heima-leadnews/heima-leadnews-common/src/main/java/com/heima/common/kafka/KafkaTopicConfig.java&#10;AppArticleService&#9;PSI&#9;JAVA://com.heima.article.service.AppArticleService&#10;Ka&#9;FILE&#9;file://D:/heima_leadnews/code/heima-leadnews/heima-leadnews-common/src/main/java/com/heima/common/kafka/KafkaTopicConfig.java&#10;AppLikesBehaviorServiceImpl&#9;PSI&#9;JAVA://com.heima.behavior.service.impl.AppLikesBehaviorServiceImpl&#10;UpdateArticle&#9;FILE&#9;file://D:/heima_leadnews/code/heima-leadnews/heima-leadnews-model/src/main/java/com/heima/model/mess/app/UpdateArticle.java&#10;ApHotArticles&#9;PSI&#9;JAVA://com.heima.model.article.pojos.ApHotArticles&#10;Esinde&#9;FILE&#9;file://D:/heima_leadnews/code/heima-leadnews/heima-leadnews-common/src/main/java/com/heima/common/common/pojo/EsIndexEntity.java&#10;EsIn&#9;PSI&#9;JAVA://com.heima.common.common.pojo.EsIndexEntity&#10;SubmitArticleAuto&#9;PSI&#9;JAVA://com.heima.model.mess.admin.SubmitArticleAuto&#10;ApArticleLabelMapper&#9;FILE&#9;file://D:/heima_leadnews/code/heima-leadnews/heima-leadnews-model/src/main/java/com/heima/model/mappers/app/ApArticleLabelMapper.java&#10;CrawlerEn&#9;PSI&#9;JAVA://com.heima.model.crawler.enums.CrawlerEnum&#10;ClNewsAdditional&#9;FILE&#9;file://D:/heima_leadnews/code/heima-leadnews/heima-leadnews-model/src/main/java/com/heima/model/crawler/pojos/ClNewsAdditional.java&#10;ClIpPool&#9;FILE&#9;file://D:/heima_leadnews/code/heima-leadnews/heima-leadnews-model/src/main/java/com/heima/model/crawler/pojos/ClIpPool.java&#10;ClNewsMapper&#9;PSI&#9;JAVA://com.heima.model.mappers.crawerls.ClNewsMapper&#10;ClNews&#9;PSI&#9;JAVA://com.heima.model.crawler.pojos.ClNews&#10;ClNewsAdditionalMapper&#9;PSI&#9;JAVA://com.heima.model.mappers.crawerls.ClNewsAdditionalMapper&#10;ClNewsComment&#9;PSI&#9;JAVA://com.heima.model.crawler.pojos.ClNewsComment&#10;AdChannelLabel&#9;PSI&#9;JAVA://com.heima.model.admin.pojos.AdChannelLabel&#10;AdLabel&#9;PSI&#9;JAVA://com.heima.model.admin.pojos.AdLabel&#10;CrawlerConfig&#9;FILE&#9;file://D:/heima_leadnews/code/heima-leadnews/heima-leadnews-crawler/src/main/java/com/heima/crawler/config/CrawlerConfig.java&#10;CrawlerComponent&#9;PSI&#9;JAVA://com.heima.crawler.process.entity.CrawlerComponent&#10;SubmitArticleAuthMessage&#9;PSI&#9;JAVA://com.heima.common.kafka.messages.SubmitArticleAuthMessage&#10;ReflectUtils&#9;PSI&#9;JAVA://com.heima.utils.common.ReflectUtils&#10;HtmlStyle&#9;PSI&#9;JAVA://com.heima.model.crawler.core.label.HtmlStyle&#10;CrawlerConfigProperty&#9;FILE&#9;file://D:/heima_leadnews/code/heima-leadnews/heima-leadnews-crawler/src/main/java/com/heima/crawler/process/entity/CrawlerConfigProperty.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572868704297" />
+    <property name="dynamic.classpath" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/heima-leadnews-images/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.heima.behavior.service" />
+      <recent name="com.heima.article.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\heima_leadnews\code\heima-leadnews\heima-leadnews-migration\src\main\resources" />
+      <recent name="D:\heima_leadnews\code\heima-leadnews\heima-leadnews-migration" />
+      <recent name="D:\heima_leadnews\code\heima-leadnews\heima-leadnews-images\src\main\java\com\heima\images\config" />
+      <recent name="D:\heima_leadnews\code\heima-leadnews\heima-leadnews-images\src\main\resources" />
+      <recent name="D:\heima_leadnews\code\heima-leadnews\heima-leadnews-images" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.heima.login.controller.v2" />
+      <recent name="com.heima.images" />
+      <recent name="com.heima.article.config" />
+      <recent name="com.heima.model.crawler.core.cookie" />
+      <recent name="com.heima.model.crawler.core.parse" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\heima_leadnews\code\heima-leadnews\heima-leadnews-model\src\main\resources\mappers\admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ArticleJarApplication">
+    <configuration name="HbaseTest.testDelTable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="heima-leadnews-migration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heima.migration.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.heima.migration.test" />
+      <option name="MAIN_CLASS_NAME" value="com.heima.migration.test.HbaseTest" />
+      <option name="METHOD_NAME" value="testDelTable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MongoTest.testGetOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="heima-leadnews-migration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heima.migration.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.heima.migration.test" />
+      <option name="MAIN_CLASS_NAME" value="com.heima.migration.test.MongoTest" />
+      <option name="METHOD_NAME" value="testGetOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReviewArticleTest.testReview" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="heima-leadnews-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heima.admin.service.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.heima.admin.service.test" />
+      <option name="MAIN_CLASS_NAME" value="com.heima.admin.service.test.ReviewArticleTest" />
+      <option name="METHOD_NAME" value="testReview" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArticleJarApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="heima-leadnews-article" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heima.article.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heima.article.ArticleJarApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImagesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="heima-leadnews-images" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heima.images.ImagesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="heima-leadnews-login" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heima.login.LoginApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MigrationJarApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="heima-leadnews-migration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heima.migration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heima.migration.MigrationJarApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.LoginApplication" />
+      <item itemvalue="Spring Boot.ImagesApplication" />
+      <item itemvalue="JUnit.MongoTest.testGetOne" />
+      <item itemvalue="Spring Boot.MigrationJarApplication" />
+      <item itemvalue="JUnit.HbaseTest.testDelTable" />
+      <item itemvalue="JUnit.ReviewArticleTest.testReview" />
+      <item itemvalue="Spring Boot.ArticleJarApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ArticleJarApplication" />
+        <item itemvalue="Spring Boot.MigrationJarApplication" />
+        <item itemvalue="JUnit.ReviewArticleTest.testReview" />
+        <item itemvalue="JUnit.HbaseTest.testDelTable" />
+        <item itemvalue="JUnit.MongoTest.testGetOne" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\10406\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b189cbd5-debf-44a1-bfc5-508e4277006d" name="Default Changelist" comment="" />
+      <created>1566098930433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566098930433</updated>
+      <workItem from="1566098933681" duration="2187000" />
+      <workItem from="1567438278566" duration="4820000" />
+      <workItem from="1567472757415" duration="5527000" />
+      <workItem from="1567488917746" duration="5000" />
+      <workItem from="1567589280574" duration="65821000" />
+      <workItem from="1567923949464" duration="1834000" />
+      <workItem from="1568011914482" duration="13972000" />
+      <workItem from="1568164144874" duration="620000" />
+      <workItem from="1568188597055" duration="19488000" />
+      <workItem from="1568272421235" duration="3081000" />
+      <workItem from="1568426639541" duration="72128000" />
+      <workItem from="1568769453263" duration="15058000" />
+      <workItem from="1568800043471" duration="47097000" />
+      <workItem from="1568987521594" duration="2679000" />
+      <workItem from="1569027667924" duration="18532000" />
+      <workItem from="1569200877684" duration="2446000" />
+      <workItem from="1569208753157" duration="9108000" />
+      <workItem from="1569287756812" duration="49051000" />
+      <workItem from="1569459459044" duration="16373000" />
+      <workItem from="1569546442147" duration="41225000" />
+      <workItem from="1569719900916" duration="11066000" />
+      <workItem from="1570499356238" duration="1016000" />
+      <workItem from="1570521141771" duration="4055000" />
+      <workItem from="1570526611920" duration="14853000" />
+      <workItem from="1570690986447" duration="9480000" />
+      <workItem from="1570977082392" duration="9826000" />
+      <workItem from="1571104002264" duration="24386000" />
+      <workItem from="1571274898886" duration="21925000" />
+      <workItem from="1571558115188" duration="5975000" />
+      <workItem from="1571568162989" duration="23507000" />
+      <workItem from="1571669437758" duration="3377000" />
+      <workItem from="1571705937777" duration="64440000" />
+      <workItem from="1571969507712" duration="18371000" />
+      <workItem from="1572014954393" duration="11872000" />
+      <workItem from="1572231534647" duration="19304000" />
+      <workItem from="1572315385837" duration="3622000" />
+      <workItem from="1572402364221" duration="28310000" />
+      <workItem from="1572491224266" duration="11152000" />
+      <workItem from="1572511735309" duration="9380000" />
+      <workItem from="1572569606764" duration="28151000" />
+      <workItem from="1572659429247" duration="21453000" />
+      <workItem from="1572755744094" duration="3570000" />
+      <workItem from="1572760531408" duration="29683000" />
+      <workItem from="1572833470584" duration="1656000" />
+      <workItem from="1572847946461" duration="9525000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="HbaseTest_testStorageGet - 2019.11.03 at 20h 25m 36s.xml">
+      <configuration name="HbaseTest.testStorageGet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MongoTest_testAdd - 2019.11.03 at 20h 51m 29s.xml">
+      <configuration name="MongoTest.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MongoTest_testGetOne - 2019.11.03 at 20h 53m 06s.xml">
+      <configuration name="MongoTest.testGetOne" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MongoTest_testGetOne - 2019.11.03 at 20h 54m 23s.xml">
+      <configuration name="MongoTest.testGetOne" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MongoTest_testSave - 2019.11.03 at 21h 01m 18s.xml">
+      <configuration name="MongoTest.testSave" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MongoTest_testGetOne - 2019.11.03 at 21h 03m 01s.xml">
+      <configuration name="MongoTest.testGetOne" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HbaseTest_testDelTable - 2019.11.04 at 00h 55m 24s.xml">
+      <configuration name="HbaseTest.testDelTable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReviewArticleTest_testReview - 2019.11.04 at 17h 59m 47s.xml">
+      <configuration name="ReviewArticleTest.testReview" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReviewArticleTest_testReview - 2019.11.04 at 18h 06m 08s.xml">
+      <configuration name="ReviewArticleTest.testReview" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReviewArticleTest_testReview - 2019.11.04 at 19h 23m 09s.xml">
+      <configuration name="ReviewArticleTest.testReview" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="781007000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49146757" visible="true" weight="0.4871407" />
+      <window_info id="Structure" order="1" sideWeight="0.5085324" side_tool="true" weight="0.3290469" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32764506" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7150171" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24061434" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Analysis" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.32935154" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32935154" />
+      <window_info anchor="bottom" id="Sequence" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32935154" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.39249146" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49146757" visible="true" weight="0.31316188" />
+      <window_info id="Structure" order="1" sideWeight="0.5085324" side_tool="true" weight="0.3290469" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32764506" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7150171" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.24061434" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Analysis" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.32935154" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32935154" />
+      <window_info anchor="bottom" id="Sequence" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32935154" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.39249146" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-article/src/main/java/com/heima/article/service/AppArticleServiceImpl.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-admin/src/main/java/com/heima/admin/kafka/TestKafkaListener.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-crawler/src/test/java/com/heima/crawler/service/CrawlerNewsAdditionalServiceTest.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-crawler/src/main/java/com/heima/crawler/manager/ProcessingFlowManager.java</url>
+          <line>138</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-login/src/main/java/com/heima/login/controller/v2/LoginV2Controller.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-login/src/main/java/com/heima/login/service/impl/ApUserLoginServiceImpl.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-login/src/main/java/com/heima/login/service/impl/ValidateServiceImpl.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-migration/src/test/java/com/heima/migration/test/HbaseTest.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/kafka/listener/MigrationAuditSucessArticleListener.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/impl/ArticleQuantityServiceImpl.java</url>
+          <line>147</line>
+          <properties />
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/kafka/listener/MigrationAuditSucessArticleListener.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-admin/src/main/java/com/heima/admin/service/impl/ReviewMediaArticleServiceImpl.java</url>
+          <line>303</line>
+          <properties />
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/impl/ApHotArticleServiceImpl.java</url>
+          <line>126</line>
+          <properties />
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/impl/ApHotArticleServiceImpl.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/impl/ApHotArticleServiceImpl.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/impl/ApHotArticleServiceImpl.java</url>
+          <line>97</line>
+          <properties />
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-model/src/main/resources/mappers/app/ApArticleConfigMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-model/src/main/resources/mappers/app/ApArticleContentMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-model/src/main/java/com/heima/model/mappers/app/ApArticleContentMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="71" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/impl/ApArticleContentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-model/src/main/java/com/heima/model/mappers/app/ApArticleMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="47" column="23" lean-forward="true" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-model/src/main/resources/mappers/app/ApArticleMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3206">
+          <caret line="54" column="17" lean-forward="true" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-model/src/main/java/com/heima/model/mappers/app/ApAuthorMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-model/src/main/resources/mappers/app/ApAuthorMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/impl/ApAuthorServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/ApArticleConfigService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/ApArticleContentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/ApAuthorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/MigrationJarApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/ArticleQuantityService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/ApArticleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="15" column="50" lean-forward="true" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-common/src/main/java/com/heima/common/hbase/entity/HBaseStorage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/ApHotArticleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-model/src/main/resources/mappers/app/ApHotArticlesMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="60" column="70" lean-forward="true" selection-start-line="60" selection-start-column="70" selection-end-line="60" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-common/src/main/java/com/heima/common/mongo/entity/MongoStorageEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-common/src/main/java/com/heima/common/common/storage/StorageEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-common/src/main/java/com/heima/common/common/storage/StorageData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-article/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-maven-3.3.9/repository_heima-leannews/org/springframework/spring-core/5.1.7.RELEASE/spring-core-5.1.7.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="110" column="27" lean-forward="true" selection-start-line="110" selection-start-column="27" selection-end-line="110" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-migration/src/test/java/com/heima/migration/test/HbaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="38" column="75" selection-start-line="38" selection-start-column="75" selection-end-line="38" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/impl/ApArticleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-migration/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-admin/src/main/java/com/heima/admin/service/impl/ReviewCrawlerArticleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/impl/ApArticleConfigServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-model/src/main/java/com/heima/model/mappers/wemedia/WmNewsMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-model/src/main/resources/mappers/wemedia/WmNewsMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/config/InitConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="127" selection-start-line="7" selection-start-column="121" selection-end-line="7" selection-end-column="127" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-common/maven_test.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="26" column="78" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-common/src/main/resources/kafka.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-common/src/main/java/com/heima/common/kafka/messages/ArticleAuditSuccessMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="8" column="71" lean-forward="true" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-model/src/main/java/com/heima/model/mess/admin/ArticleAuditSuccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-common/src/main/java/com/heima/common/kafka/KafkaTopicConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-common/src/main/java/com/heima/common/kafka/KafkaSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="69" column="34" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-admin/src/test/java/com/heima/admin/service/test/ReviewArticleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+          <folding>
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-admin/src/main/java/com/heima/admin/job/CrawlerReviewArticleJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-admin/src/main/java/com/heima/admin/service/impl/ReviewMediaArticleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/impl/ArticleQuantityServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="156" selection-start-line="156" selection-end-line="156" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-article/src/main/java/com/heima/article/service/impl/ApHotArticleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="59" column="22" selection-start-line="59" selection-start-column="11" selection-end-line="60" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/kafka/listener/MigrationAuditSucessArticleListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="24" column="32" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="24" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-article/src/main/java/com/heima/article/job/AppHotArticleQuartz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="26" column="48" lean-forward="true" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/service/impl/ApHotArticleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/kafka/listener/MigrationHotArticleListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/job/MigrationDbToHBaseQuartz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/apache-maven-3.3.9/conf/settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="63" column="64" selection-start-line="63" selection-start-column="51" selection-end-line="63" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/entity/ArticleQuantity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="32" column="46" lean-forward="true" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-migration/src/test/java/com/heima/migration/test/MongoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heima-leadnews-migration/src/main/java/com/heima/migration/job/MigrationDeleteHotDataQuartz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>heima-leadnews-utils</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>
